@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=anemo_reed_raw Pin=Ran-1
+Removed Pin From Net: NetName=anemo_analog_raw Pin=Rre-1
+Added Pin To Net: NetName=anemo_analog_raw Pin=Ran-1
+Added Pin To Net: NetName=anemo_reed_raw Pin=Rre-1
+Added Room: Name=Sheet1

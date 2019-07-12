@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=Dtvs NewDesignator=Dan
+Added Component: Designator=Dan2(DO 35 (300MILS))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Davcc2(DO 35 (300MILS))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Dre2(DO 35 (300MILS))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Dan2-A
+Added Pin To Net: NetName=anemo_analog Pin=Dan2-K
+Added Pin To Net: NetName=GND Pin=Davcc2-A
+Added Pin To Net: NetName=VCC Pin=Davcc2-K
+Added Pin To Net: NetName=GND Pin=Dre2-A
+Added Pin To Net: NetName=anemo_reed Pin=Dre2-K
+Added Member To Class: ClassName=Sheet1 Member=Component Csi3 100pF
+Added Member To Class: ClassName=Sheet1 Member=Component Dan2 BZX85C3V3
+Added Member To Class: ClassName=Sheet1 Member=Component Davcc2 BZX85C3V3
+Added Member To Class: ClassName=Sheet1 Member=Component Dre2 BZX85C3V3
+Added Member To Class: ClassName=Sheet1 Member=Component Rsi2 10k
+Added Room: Name=Sheet1

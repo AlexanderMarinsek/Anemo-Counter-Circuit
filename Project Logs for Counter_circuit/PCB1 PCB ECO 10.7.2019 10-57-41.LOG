@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCC Pin=Anemo-1
+Removed Pin From Net: NetName=anemo_reed Pin=Anemo-2
+Removed Pin From Net: NetName=anemo_analog Pin=Anemo-3
+Removed Pin From Net: NetName=GND Pin=Anemo-4
+Removed Pin From Net: NetName=VCC Pin=Power-1
+Removed Pin From Net: NetName=GND Pin=Power-2
+Removed Member From Class: ClassName=Sheet1 Member=Anemo
+Removed Member From Class: ClassName=Sheet1 Member=Power
+Change Component Footprint: Designator=IO Old Footprint=HDR1X7 New Footprint=H1x8
+Change Component Comment : Designator=IO Old Comment=Header 7 New Comment=H1x8
+Change component parameters: Designator = "IO"; Footprint = "H1x8"; UniqueID = "\IJZPSDCU"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=Anemo power(VRSTNA SPONKA 2P/16A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Anemo signals(VRSTNA SPONKA 2P/16A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Power input(VRSTNA SPONKA 2P/16A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=Anemo power-1
+Added Pin To Net: NetName=GND Pin=Anemo power-2
+Added Pin To Net: NetName=anemo_reed Pin=Anemo signals-1
+Added Pin To Net: NetName=anemo_analog Pin=Anemo signals-2
+Added Pin To Net: NetName=VCC Pin=Power input-1
+Added Pin To Net: NetName=GND Pin=Power input-2
+Added Member To Class: ClassName=Sheet1 Member=Component Anemo power VRSTNA SPONKA 2P/16A
+Added Member To Class: ClassName=Sheet1 Member=Component Anemo signals VRSTNA SPONKA 2P/16A
+Added Member To Class: ClassName=Sheet1 Member=Component Power input VRSTNA SPONKA 2P/16A
+Added Room: Name=Sheet1

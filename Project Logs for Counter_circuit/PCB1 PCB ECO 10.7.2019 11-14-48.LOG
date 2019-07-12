@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=CB2
+Change Component Designator: OldDesignator=C2 NewDesignator=CB3
+Change Component Designator: OldDesignator=C3 NewDesignator=CBB1
+Change Component Designator: OldDesignator=C4 NewDesignator=CBB2
+Change Component Designator: OldDesignator=C10 NewDesignator=CB1
+Added Room: Name=Sheet1

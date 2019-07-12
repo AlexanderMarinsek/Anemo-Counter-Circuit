@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=anemo_reed Pin=U3-3
+Removed Pin From Net: NetName=cnt_in Pin=U3-13
+Change Component Designator: OldDesignator=Csi2 NewDesignator=Csi3
+Change Component Designator: OldDesignator=Csi3 NewDesignator=Csi2
+Change Component Designator: OldDesignator=Rsi2 NewDesignator=Rsi3
+Change Component Designator: OldDesignator=Rsi3 NewDesignator=Rsi2
+Added Pin To Net: NetName=cnt_in Pin=U3-3
+Added Pin To Net: NetName=anemo_reed Pin=U3-13
+Added Room: Name=Sheet1

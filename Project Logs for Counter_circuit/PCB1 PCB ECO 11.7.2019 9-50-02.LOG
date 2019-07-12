@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=anemo_reed Pin=Anemo signals-1
+Removed Pin From Net: NetName=anemo_analog Pin=Anemo signals-2
+Added Component: Designator=C1(C0805(2012)_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C0805(2012)_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(DO 35 (300MILS))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO 35 (300MILS))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Rsi7(R0805(2012)_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Rsi8(R0805(2012)_M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=anemo_reed Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=anemo_analog Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=anemo_reed Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=anemo_analog Pin=D2-K
+Added Pin To Net: NetName=anemo_reed Pin=Rsi7-2
+Added Pin To Net: NetName=anemo_analog Pin=Rsi8-2
+Added Pin To Net: NetName=anemo_analog_raw Pin=Anemo signals-2
+Added Pin To Net: NetName=anemo_analog_raw Pin=Rsi7-1
+Added Net: Name=anemo_analog_raw
+Added Pin To Net: NetName=anemo_reed_raw Pin=Anemo signals-1
+Added Pin To Net: NetName=anemo_reed_raw Pin=Rsi8-1
+Added Net: Name=anemo_reed_raw
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1nF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 1nF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 BZX85C3V3
+Added Member To Class: ClassName=Sheet1 Member=Component D2 BZX85C3V3
+Added Member To Class: ClassName=Sheet1 Member=Component Rsi7 220
+Added Member To Class: ClassName=Sheet1 Member=Component Rsi8 220
+Added Room: Name=Sheet1
