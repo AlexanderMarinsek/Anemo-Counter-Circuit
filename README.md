@@ -13,10 +13,14 @@ Built around one CD4040 ripple carry counter and two CD4051 multiplexers the ACC
 ## Assembly
 
 Straight forward assembly using basic laboratory, or DIY equipment. 
-*Having a magnifying glass and small soldering iron tip at your disposal makes life easier.* 
+*Having a magnifying glass and a small soldering iron tip at your disposal makes life easier.* 
 
 ![Assembled ACC](./Export/Assembled_ACC.jpg)
 
+
+## Further reading
+
+More about the ACC and its usage can be found in [my master's thesis](https://www.researchgate.net/profile/Alexander_Marinsek).
 
 
 
