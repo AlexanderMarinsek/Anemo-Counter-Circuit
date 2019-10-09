@@ -1,6 +1,6 @@
 # Anemo Counter circuit
 
-Source PCB design files of the Anemo Counter Circuit (ACC), primarily intended for use with cup based anemometers and normally interfaced using a MCU running an instance of the [Anemo embedded application](https://github.com/AlexanderMarinsek/Anemo-embedded).
+PCB design files for the Anemo Counter Circuit (ACC), primarily intended for use with cup based anemometers and normally interfaced using a MCU running an instance of the [Anemo embedded application](https://github.com/AlexanderMarinsek/Anemo-embedded).
 
 
 ## Build
